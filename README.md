@@ -21,3 +21,10 @@ All employee data used in this project is fictional and created for educational 
 
 ## Author
 BBA Student | HR Analytics
+## Project Visualizations
+
+### 1. Workforce Trends
+![Workforce Trends](hr_workforce_trends.png)
+
+### 2. Department Analytics
+![Department Analytics](department_analytics.png)
